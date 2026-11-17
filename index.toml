@@ -61,6 +61,11 @@ hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a20cdd1919f7533bc89da0be574260e9b9545bd03e0049352db3086696229125"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
@@ -118,6 +123,16 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b3c7d03440b577cba25ce6e51ac57ee454905bf6e9a15ec3d782bda306431e56"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "0e6c2c42ffa8898996f83138f9a55c9e7afa360e39dad92788f12a1ec2e0e412"
 metafile = true
 
 [[files]]
@@ -196,6 +211,11 @@ hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "df24fab3eda259587fcff88071fae6121bf19b7bde20e1a191860e3d1e84109c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e64424e59f2493b2fcd32839ab3ed2a14de15d70437cd95194d2854311e14b00"
 metafile = true
 
 [[files]]
