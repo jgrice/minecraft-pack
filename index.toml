@@ -281,11 +281,6 @@ hash = "f55c7ab7ad4f395f058a271fbe05505397e009fddcfe395fe15eb81f5acf3960"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "c518c0a200e8f1cd4b3cbba06eafbee227f073d3ca69cd064de938aa6e29a2b7"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
