@@ -22,3 +22,9 @@ git commit -am "..." && git push
 ```
 
 The server picks up the change on its next restart; players on their next launch.
+
+## Prism instance
+
+`prism/` holds the instance files for the release zip. Rebuild the zip with those two files plus
+`.minecraft/packwiz-installer-bootstrap.jar` (v0.0.3 from packwiz/packwiz-installer-bootstrap).
+Bump the NeoForge version in `prism/mmc-pack.json` when `pack.toml` changes it.
