@@ -1,0 +1,13 @@
+name = "Create Server"
+author = "jgrice"
+version = "2026.11.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e389c693ed5988413175b37b35bbca778164d8541dc63b423924079f469390a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"
