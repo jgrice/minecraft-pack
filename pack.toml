@@ -1,12 +1,12 @@
 name = "Create Server"
 author = "jgrice"
-version = "2026.11.1"
+version = "2026.11.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cb9f36f93d2ab991ee96b70f9b9ecded6bf79432b677cccdd1f6a772e2e40a1e"
+hash = "8e0786e70d7d1e3cae8c2bfb2832f7325052d49e178f0d08ee6c97259fd5ec17"
 
 [versions]
 minecraft = "1.21.1"

@@ -1,0 +1,18 @@
+name = "Farsight [Forge/Neo]"
+filename = "farsight-1.21.1-5.8.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "363b601d8f5e0b952d86c4fa7a8459eee76e4332"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9364832
+project-id = 495693
+
+[option]
+optional = true
+default = true
+description = "Farsight: see farther than the server's view distance (client only)"
