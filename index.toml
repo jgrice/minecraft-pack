@@ -141,6 +141,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "a846d11ec5d4163e3fe6ebb96202d5a4700d95af09836238e7459c0cdc07255b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "f55c7ab7ad4f395f058a271fbe05505397e009fddcfe395fe15eb81f5acf3960"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c518c0a200e8f1cd4b3cbba06eafbee227f073d3ca69cd064de938aa6e29a2b7"
 metafile = true
 
 [[files]]
